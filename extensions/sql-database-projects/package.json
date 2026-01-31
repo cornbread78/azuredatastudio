@@ -623,7 +623,7 @@
     "@types/sinon": "^9.0.4",
     "@types/which": "^2.0.1",
     "@types/xml-formatter": "^1.1.0",
-    "mocha": "^9.2.2",
+    "mocha": "^10.6.0",
     "should": "^13.2.1",
     "sinon": "^9.0.2",
     "typemoq": "^2.1.0"
